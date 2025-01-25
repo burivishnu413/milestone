@@ -1,0 +1,11 @@
+pandas
+cohere
+speechrecognition
+elasticsearch
+vaderSentiment
+gspread
+flask
+flask-cors
+google-auth
+streamlit
+pyaudio
