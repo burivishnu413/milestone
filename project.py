@@ -12,7 +12,7 @@ from google.oauth2.service_account import Credentials
 import streamlit as st
 
 # Initialize Cohere client
-COHERE_API_KEY ="Pk7PaQxvrfxAIi3I2QqHiGwalCKlwunTFKCqDj1F"
+COHERE_API_KEY ="cohere api key"
 co = cohere.Client(COHERE_API_KEY)
 
 # Initialize Elasticsearch client
